@@ -1,0 +1,3 @@
+23:51:28.786 [http-nio-8080-exec-3] ERROR c.u.journalApp.service.UserService - hahahahahahaha
+23:51:28.787 [http-nio-8080-exec-3] INFO  c.u.journalApp.service.UserService - hahahahahahaha
+23:51:28.787 [http-nio-8080-exec-3] WARN  c.u.journalApp.service.UserService - hahahahahahaha
