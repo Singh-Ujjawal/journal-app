@@ -1,11 +1,1 @@
-spring:
-  data:
-    mongodb:
-      uri: mongodb+srv://UjjawalFirst:Mumma%401234@cluster0.8vbmwse.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-      database: journaldb
-      auto-index-creation: true
 
-server:
-  port: 8080
-  servlet:
-    context-path: /
